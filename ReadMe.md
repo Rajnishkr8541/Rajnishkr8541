@@ -1,5 +1,7 @@
 # 💫 About Me:
-                                          Hi  I'm Rajnish Kumar <br><br> A recent B.Tech graduate in Computer Science & Technology with a strong interest in backend and web development.<br><br>🌱 I’m currently working on personal projects in React, Node.js, and Express to deepen my understanding of web technologies and create impactful applications.<br><br>💡 Ask me about JavaScript, React, MongoDB, APIs, and web development. I'm always exploring new technologies and taking on coding challenges to grow as a developer.<br><br>📫 Reach me at rajnishkr913530@gmail.com – let’s connect and build something awesome together!
+   Hi  I'm Rajnish Kumar <br>
+   <br> A recent B.Tech graduate in Computer Science & Technology with a strong interest in backend and web development.<br>
+  <br>🌱 I’m currently working on personal projects in React, Node.js, and Express to deepen my understanding of web technologies and create impactful applications.<br><br>💡 Ask me about JavaScript, React, MongoDB, APIs, and web development. I'm always exploring new technologies and taking on coding challenges to grow as a developer.<br><br>📫 Reach me at rajnishkr913530@gmail.com – let’s connect and build something awesome together!
 
 
 ## 🌐 Socials:
